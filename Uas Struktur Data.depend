@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1689252263 source:c:\users\zakal\onedrive\documents\struktur data code\uas struktur data\main.cpp
+	<iostream>
+	<vector>
+	<unordered_map>
+	<queue>
+	<algorithm>
+
